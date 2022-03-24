@@ -18,15 +18,12 @@ main:
 #  - title: "CV"
 #    url: /cv/
     
-<<<<<<< HEAD
   - title: "Guide"
     url: /markdown/
 
 
-=======
 #  - title: "Guide"
 #    url: /markdown/
 
   - title: "Blog Posts"
     url: /year-archive/
->>>>>>> 171871a11ef1e4e2d7b343e42615ee5159f2454d
