@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the frontpage of the prject: "Analyzing the Belt and Road Initiative"
+This is the frontage of the project: "Analyzing the Belt and Road Initiative". A short summary of the porject and the content of the website should go here.
