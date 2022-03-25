@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Analyzing the Belt and Road Initiative"
+title: "Analyzing the Impact of the Belt and Road Initiative"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
